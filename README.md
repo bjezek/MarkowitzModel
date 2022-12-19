@@ -1,3 +1,3 @@
 # MarkowitzModel
 
-# Model will show portfolio with best Sharp-ratio to invest in given the stocks given
+# Model will show best Risk/Reward Ratio out of a thousand diferrent portfolio mix [
